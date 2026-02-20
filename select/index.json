@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "三月のパンタシア 『三月がずっと続けばいい』",
+  "base_artist": "三月のパンタシア",
+  "createdAt": "2026-02-20T08:09:27.116038Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "三月がずっと続けばいい",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": true,
+      "path": "select/01_三月がずっと続けばいい_Sangatsu_no_Phantasia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "三月がずっと続けばいい",
+      "artist": "三月のパンタシア",
+      "has_synced": false,
+      "path": "select/pl_01_三月がずっと続けばいい_三月のパンタシア.txt"
+    }
+  ]
+}
